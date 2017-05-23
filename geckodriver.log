@@ -1,0 +1,299 @@
+1495514278886	Marionette	INFO	Listening on port 38669
+1495514339525	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1495514393673	Marionette	INFO	Listening on port 44453
+1495514402371	Marionette	INFO	New connections will no longer be accepted
+1495514452198	Marionette	INFO	Listening on port 39800
+1495514470765	Marionette	INFO	New connections will no longer be accepted
+1495515165725	Marionette	INFO	Listening on port 37198
+1495515221796	Marionette	INFO	Listening on port 33125
+1495515283773	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1495516105348	Marionette	INFO	Listening on port 34633
+1495516218099	Marionette	INFO	Listening on port 41254
+1495516657358	Marionette	INFO	Listening on port 38089
+1495516806296	Marionette	INFO	Listening on port 42420
+1495516861834	Marionette	INFO	Listening on port 34411
+1495517537567	Marionette	INFO	Listening on port 42255
+1495517537660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495517544894	Marionette	INFO	Listening on port 33489
+1495517544978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495517759744	Marionette	INFO	Listening on port 39460
+1495517759835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+1495517882213	Marionette	INFO	Listening on port 40673
+1495517882247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495519942409	geckodriver	INFO	Listening on 127.0.0.1:45811
+1495519943529	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495519946342	Marionette	INFO	Listening on port 40079
+1495519946443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495535071147	geckodriver	INFO	Listening on 127.0.0.1:58321
+1495535072230	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495535075209	Marionette	INFO	Listening on port 46488
+1495535075277	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1495536698147	geckodriver	INFO	Listening on 127.0.0.1:33917
+1495536699190	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495536701913	Marionette	INFO	Listening on port 40649
+1495536702036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495536784578	geckodriver	INFO	Listening on 127.0.0.1:40182
+1495536785624	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495536788637	Marionette	INFO	Listening on port 41342
+1495536788744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495537192178	geckodriver	INFO	Listening on 127.0.0.1:56008
+1495537193296	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495537196211	Marionette	INFO	Listening on port 41944
+1495537196314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495537258493	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1495537458665	geckodriver	INFO	Listening on 127.0.0.1:46814
+1495537459709	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495537462644	Marionette	INFO	Listening on port 34997
+1495537462741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495537521727	geckodriver	INFO	Listening on 127.0.0.1:48085
+1495537522771	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495537525539	Marionette	INFO	Listening on port 35192
+1495537525608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495537586792	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1495539209834	geckodriver	INFO	Listening on 127.0.0.1:33797
+1495539210877	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495539213795	Marionette	INFO	Listening on port 45402
+1495539213893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495539389923	geckodriver	INFO	Listening on 127.0.0.1:44735
+1495539391049	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495539393774	Marionette	INFO	Listening on port 39721
+1495539393870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495539506842	geckodriver	INFO	Listening on 127.0.0.1:43341
+1495539507962	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495539510664	Marionette	INFO	Listening on port 36720
+1495539510781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495539740263	geckodriver	INFO	Listening on 127.0.0.1:37073
+1495539741361	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495539744124	Marionette	INFO	Listening on port 45699
+1495539744188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495539795091	geckodriver	INFO	Listening on 127.0.0.1:38530
+1495539796149	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495539798901	Marionette	INFO	Listening on port 42325
+1495539798980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495539865984	geckodriver	INFO	Listening on 127.0.0.1:37818
+1495539867090	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495539869830	Marionette	INFO	Listening on port 45739
+1495539869949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495539890986	Marionette	INFO	New connections will no longer be accepted
+1495540490596	geckodriver	INFO	Listening on 127.0.0.1:49737
+1495540491706	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495540494652	Marionette	INFO	Listening on port 36409
+1495540494727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495540522198	Marionette	INFO	New connections will no longer be accepted
+[Child 23572] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1495540995651	geckodriver	INFO	Listening on 127.0.0.1:39145
+1495540996699	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495540999436	Marionette	INFO	Listening on port 34138
+1495540999536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495541021316	Marionette	INFO	New connections will no longer be accepted
+1495541082255	geckodriver	INFO	Listening on 127.0.0.1:46792
+1495541083305	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495541086163	Marionette	INFO	Listening on port 33107
+1495541086223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495541108881	Marionette	INFO	New connections will no longer be accepted
+[Child 23958] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495541205913	geckodriver	INFO	Listening on 127.0.0.1:55273
+1495541207026	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495541209881	Marionette	INFO	Listening on port 37892
+1495541209998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495541231690	Marionette	INFO	New connections will no longer be accepted
+[Child 24098] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495541260777	geckodriver	INFO	Listening on 127.0.0.1:48858
+1495541261875	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495541264719	Marionette	INFO	Listening on port 40529
+1495541264794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495541286750	Marionette	INFO	New connections will no longer be accepted
+[Child 24229] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495541392884	geckodriver	INFO	Listening on 127.0.0.1:43315
+1495541393947	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495541396687	Marionette	INFO	Listening on port 35348
+1495541396790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495541418896	Marionette	INFO	New connections will no longer be accepted
+1495541510903	geckodriver	INFO	Listening on 127.0.0.1:42665
+1495541511951	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495541514749	Marionette	INFO	Listening on port 37688
+1495541514858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495541538271	Marionette	INFO	New connections will no longer be accepted
+1495542121629	geckodriver	INFO	Listening on 127.0.0.1:53681
+1495542122741	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495542125556	Marionette	INFO	Listening on port 46200
+1495542125707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495542150993	Marionette	INFO	New connections will no longer be accepted
+[Child 25205] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495544933779	geckodriver	INFO	Listening on 127.0.0.1:43505
+1495544934822	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495544937780	Marionette	INFO	Listening on port 38840
+1495544937874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495544964760	Marionette	INFO	New connections will no longer be accepted
+1495545242209	geckodriver	INFO	Listening on 127.0.0.1:58808
+1495545243263	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495545246488	Marionette	INFO	Listening on port 39333
+1495545246597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495545291076	geckodriver	INFO	Listening on 127.0.0.1:55503
+1495545292128	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495545295312	Marionette	INFO	Listening on port 36078
+1495545295392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495545318222	Marionette	INFO	New connections will no longer be accepted
+1495545385880	geckodriver	INFO	Listening on 127.0.0.1:55465
+1495545386931	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495545389676	Marionette	INFO	Listening on port 40249
+1495545389800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495545414188	Marionette	INFO	New connections will no longer be accepted
+1495545528609	geckodriver	INFO	Listening on 127.0.0.1:43686
+1495545529651	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495545532407	Marionette	INFO	Listening on port 33976
+1495545532530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495545558860	Marionette	INFO	New connections will no longer be accepted
+1495546836377	geckodriver	INFO	Listening on 127.0.0.1:57570
+1495546837473	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495546840219	Marionette	INFO	Listening on port 32847
+1495546840287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495546869068	Marionette	INFO	New connections will no longer be accepted
+1495546908789	geckodriver	INFO	Listening on 127.0.0.1:39118
+1495546909904	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495546912663	Marionette	INFO	Listening on port 44093
+1495546912724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495546936151	Marionette	INFO	New connections will no longer be accepted
+1495547104213	geckodriver	INFO	Listening on 127.0.0.1:43288
+1495547105267	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547108044	Marionette	INFO	Listening on port 41477
+1495547108114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547154620	geckodriver	INFO	Listening on 127.0.0.1:41500
+1495547155663	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547158772	Marionette	INFO	Listening on port 46218
+1495547158879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547188619	Marionette	INFO	New connections will no longer be accepted
+1495547254822	geckodriver	INFO	Listening on 127.0.0.1:51218
+1495547255882	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547258796	Marionette	INFO	Listening on port 36706
+1495547258898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547336187	geckodriver	INFO	Listening on 127.0.0.1:34385
+1495547337282	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547340113	Marionette	INFO	Listening on port 39662
+1495547340212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547449310	geckodriver	INFO	Listening on 127.0.0.1:42813
+1495547450359	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547453152	Marionette	INFO	Listening on port 40725
+1495547453184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547583289	geckodriver	INFO	Listening on 127.0.0.1:34557
+1495547584400	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547587335	Marionette	INFO	Listening on port 44865
+1495547587453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547610115	Marionette	INFO	New connections will no longer be accepted
+1495547689691	geckodriver	INFO	Listening on 127.0.0.1:55315
+1495547690747	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495547693825	Marionette	INFO	Listening on port 33001
+1495547693937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495547716017	Marionette	INFO	New connections will no longer be accepted
+[Child 28980] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1495548193434	geckodriver	INFO	Listening on 127.0.0.1:54831
+1495548194479	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548197272	Marionette	INFO	Listening on port 38881
+1495548197352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495548223159	Marionette	INFO	New connections will no longer be accepted
+1495548350919	geckodriver	INFO	Listening on 127.0.0.1:34562
+1495548351966	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548355196	Marionette	INFO	Listening on port 42722
+1495548355299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495548457997	geckodriver	INFO	Listening on 127.0.0.1:52112
+1495548459051	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548462357	Marionette	INFO	Listening on port 39213
+1495548462401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495548535909	geckodriver	INFO	Listening on 127.0.0.1:44151
+1495548536973	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548540027	Marionette	INFO	Listening on port 40810
+1495548540197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495548563375	Marionette	INFO	New connections will no longer be accepted
+[Child 29822] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495548704209	geckodriver	INFO	Listening on 127.0.0.1:58165
+1495548705256	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548708034	Marionette	INFO	Listening on port 36785
+1495548708080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495548805716	geckodriver	INFO	Listening on 127.0.0.1:47225
+1495548806813	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548809625	Marionette	INFO	Listening on port 40382
+1495548809747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495548872483	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1495548874162	geckodriver	INFO	Listening on 127.0.0.1:44113
+1495548875206	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495548878210	Marionette	INFO	Listening on port 37523
+1495548878239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549126041	geckodriver	INFO	Listening on 127.0.0.1:33504
+1495549127101	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549130038	Marionette	INFO	Listening on port 42286
+1495549130121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549274334	geckodriver	INFO	Listening on 127.0.0.1:46609
+1495549275399	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549278251	Marionette	INFO	Listening on port 38987
+1495549278329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549322673	geckodriver	INFO	Listening on 127.0.0.1:41430
+1495549323718	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549327808	Marionette	INFO	Listening on port 35941
+1495549327882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549544455	geckodriver	INFO	Listening on 127.0.0.1:60172
+1495549545577	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549548455	Marionette	INFO	Listening on port 42081
+1495549548499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549630552	geckodriver	INFO	Listening on 127.0.0.1:45857
+1495549631604	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549634346	Marionette	INFO	Listening on port 43537
+1495549634427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549710144	geckodriver	INFO	Listening on 127.0.0.1:59693
+1495549711208	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549714024	Marionette	INFO	Listening on port 42194
+1495549714133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549739254	Marionette	INFO	New connections will no longer be accepted
+1495549805710	geckodriver	INFO	Listening on 127.0.0.1:57256
+1495549806823	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495549809663	Marionette	INFO	Listening on port 46759
+1495549809756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495549833775	Marionette	INFO	New connections will no longer be accepted
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1495550519180	geckodriver	INFO	Listening on 127.0.0.1:53145
+1495550520276	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495550523341	Marionette	INFO	Listening on port 45489
+1495550523453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495550548699	Marionette	INFO	New connections will no longer be accepted
